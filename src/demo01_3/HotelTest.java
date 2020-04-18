@@ -1,5 +1,9 @@
 package demo01_3;
-
+/**
+ * 
+ * .代码冗余，希望老师提出修改意见
+ * 
+ */
 import java.util.Random;
 import java.util.Scanner;
 
@@ -107,8 +111,5 @@ public class HotelTest{
 	private static void Hotel3() {
 		
 	}
-	
-	
-	
 	
 }
